@@ -1,0 +1,102 @@
+/*!*************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[11].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[11].oneOf[7].use[3]!./src/app/Styles/Options/options.module.css ***!
+  \*************************************************************************************************************************************************************************************************************************************************************************************/
+.options_options__LYS4y {
+    display: flex;
+    flex-direction: row;
+    color: #fff;
+    font-size: 14px;
+    height: -moz-fit-content;
+    height: fit-content;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;    
+}
+
+.options_optionsMain__A87W0 {
+    display: flex;
+    flex-direction: row;
+    gap: 80px;
+}
+
+.options_serviceSelection__9WUzy {
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    align-items: center;
+    text-align: center;
+    cursor: pointer;
+    gap: 5px;
+    padding-bottom: 5px;
+    border-bottom: 1px solid #000;
+}
+
+.options_serviceSelection__9WUzy:hover .options_iconOff__2C4d3 {
+    display: none;
+}
+
+.options_serviceSelection__9WUzy:hover .options_iconOn__kchID {
+    display: block;
+}
+
+.options_serviceSelection__9WUzy:hover {
+    color: #6BBAEC;
+}
+
+.options_serviceSelection__9WUzy p {
+    font-size: 14px;
+    font-weight: 100;
+    margin: 0;
+}
+
+.options_iconOn__kchID {
+    display: none;
+    transition: opacity 0.3s ease;
+}
+
+.options_iconOff__2C4d3 {
+    display: block;
+    transition: opacity 0.3s ease;
+}
+
+.options_imageContainer__dwLbX {
+    position: relative;
+}
+
+.options_filters__zvoy5 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+    border-radius: 15px;
+    padding: 5px 15px 5px 15px;
+    border: 1px solid #fff;
+    font-weight: 200;
+    cursor: pointer;
+}
+
+.options_sortby__IxWy_ {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    position: absolute;
+    gap: 10px;
+    right: 80px;
+    border-radius: 15px;
+    padding: 5px 15px 5px 15px;
+    border: 1px solid #fff;
+    font-weight: 200;
+}
+
+.options_sortby__IxWy_ p {
+
+}
+/*!*******************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[11].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[11].oneOf[7].use[3]!./src/app/page.module.css ***!
+  \*******************************************************************************************************************************************************************************************************************************************************************/
+.page_root__qGic0 {
+    padding: 0;
+    margin: 0;
+}

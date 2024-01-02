@@ -1,0 +1,10 @@
+.logo {
+    display: flex;
+    margin-left: 80px;
+    cursor: pointer;
+    transition: 0.1s ease-in-out;
+}
+
+.logo:hover {
+    opacity: 0.8;
+}

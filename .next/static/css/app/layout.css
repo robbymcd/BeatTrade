@@ -1,0 +1,109 @@
+/*!*****************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[11].oneOf[12].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[11].oneOf[12].use[3]!./src/app/globals.css ***!
+  \*****************************************************************************************************************************************************************************************************************************************************************/
+@import url('https://fonts.googleapis.com/css2?family=K2D:wght@100;200;400;600;700&display=swap');
+
+body {
+    padding: 0;
+    margin: 0;
+    background-color: #000;
+    font-family: 'K2D', sans-serif;
+}
+/*!*********************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[11].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[11].oneOf[7].use[3]!./src/app/Styles/Header/logo.module.css ***!
+  \*********************************************************************************************************************************************************************************************************************************************************************************/
+.logo_logo__3FLFy {
+    display: flex;
+    margin-left: 80px;
+    cursor: pointer;
+    transition: 0.1s ease-in-out;
+}
+
+.logo_logo__3FLFy:hover {
+    opacity: 0.8;
+}
+/*!***********************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[11].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[11].oneOf[7].use[3]!./src/app/Styles/Header/search.module.css ***!
+  \***********************************************************************************************************************************************************************************************************************************************************************************/
+.search_search__EHbj7 {
+    display: flex;
+    flex-direction: row;
+    background-color: #1a1a1a;
+    border-radius: 30px;
+    height: 60px;
+    width: 490px;
+    align-items: center;
+    padding-left: 20px;
+    padding-right: 20px;
+    gap: 15px;
+}
+
+.search_icon__BoG3y {
+    cursor: pointer;
+}
+
+.search_input__NnWBC {
+    background-color: #1a1a1a;
+    border: none;
+    outline: none;
+    color: #fff;
+    font-size: 12px;
+    height: 55px;
+    width: 100%;
+    border-radius: 0px 30px 30px 0px;
+}
+/*!***************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[11].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[11].oneOf[7].use[3]!./src/app/Styles/Header/signinjoin.module.css ***!
+  \***************************************************************************************************************************************************************************************************************************************************************************************/
+.signinjoin_signinjoin__8cksD {
+    display: flex;
+    flex-direction: row;
+    gap: 40px;
+    margin-right: 80px;
+    font-size: 12px;
+    align-items: center;
+    font-weight: 400;
+}
+
+.signinjoin_signin__zDyQE {
+    color: #8f8f8f;
+    text-decoration: none;
+    min-width: 38px;
+}
+
+.signinjoin_signin__zDyQE:hover {
+    text-decoration: underline;
+}
+
+.signinjoin_joinContainer__khkmB {
+    display: flex;
+    background-color: #6BBAEC;
+    height: 40px;
+    width: 100px;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    text-decoration: none;
+    color: #000;
+    transition: 0.1s ease-in-out;
+}
+
+.signinjoin_joinContainer__khkmB:hover {
+    opacity: 0.8;
+}
+/*!***********************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[11].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[11].oneOf[7].use[3]!./src/app/Styles/Header/header.module.css ***!
+  \***********************************************************************************************************************************************************************************************************************************************************************************/
+.header_header__reqJ4 {
+    display: flex;
+    flex-direction: row;
+    background-color: #000;
+    height: 100px;
+    width: 100%;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid #262626;
+}

@@ -1,0 +1,39 @@
+.signinjoin {
+    display: flex;
+    flex-direction: row;
+    gap: 40px;
+    margin-right: 80px;
+    font-size: 12px;
+    align-items: center;
+    font-weight: 400;
+}
+
+.signin {
+    color: #8f8f8f;
+    text-decoration: none;
+    min-width: 38px;
+}
+
+.signin:hover {
+    text-decoration: underline;
+}
+
+.joinContainer {
+    display: flex;
+    background-color: #6BBAEC;
+    height: 40px;
+    width: 100px;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    text-decoration: none;
+    color: #000;
+    transition: 0.1s ease-in-out;
+}
+
+.joinContainer:hover {
+    opacity: 0.8;
+}
